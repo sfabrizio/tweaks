@@ -26,4 +26,4 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 
 
 For more about oh-my-zsh information, plugins, themes, etc. check the oficial repo:
-https://github.com/robbyrussell/oh-my-zsh````
+https://github.com/robbyrussell/oh-my-zsh
