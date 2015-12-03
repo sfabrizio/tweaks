@@ -1,13 +1,13 @@
 # Tune Terminal in OS X
 
-![image here..](/images/oh-my-szh-default.jpg "Preview")
+A little Preview:
+![image here..](http://192.168.31.122:3000/samuel.fabrizio/tweaks/blob/master/images/oh-my-szh-default.jpg)
+
 
 I recommend use iTerm it have some amazing features..  https://www.iterm2.com/features.html
 
-Link to download:
-<pre>
-https://iterm2.com/downloads/stable/iTerm2-2_1_4.zip
-</pre>
+*Link to download:*  https://iterm2.com/downloads/stable/iTerm2-2_1_4.zip
+
 
 
 ## Zsh
