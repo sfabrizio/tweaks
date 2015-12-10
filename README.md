@@ -1,6 +1,7 @@
 # Tune Terminal in OS X
 
 A little Preview:
+
 ![image here..](https://github.com/sfabrizio/tweaks/blob/master/images/oh-my-szh-default.jpg)
 
 
