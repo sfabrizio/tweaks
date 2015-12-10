@@ -1,7 +1,7 @@
 # Tune Terminal in OS X
 
 A little Preview:
-![image here..](http://192.168.31.122:3000/samuel.fabrizio/tweaks/blob/master/images/oh-my-szh-default.jpg)
+![image here..](https://github.com/sfabrizio/tweaks/blob/master/images/oh-my-szh-default.jpg)
 
 
 I recommend use iTerm it have some amazing features..  https://www.iterm2.com/features.html
