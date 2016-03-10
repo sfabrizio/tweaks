@@ -7,7 +7,7 @@ A little Preview:
 
 I recommend use iTerm it have some amazing features..  https://www.iterm2.com/features.html
 
-*Link to download:*  https://iterm2.com/downloads/stable/iTerm2-2_1_4.zip
+*Link to download:*  https://iterm2.com/downloads/
 
 
 
